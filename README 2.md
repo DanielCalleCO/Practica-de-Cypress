@@ -1,3 +1,3 @@
 # Practica-de-Cypress
 
-Dari care nepe
+Dari care lindo
